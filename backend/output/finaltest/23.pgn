@@ -1,0 +1,26 @@
+[Event "Caro-Gyatt: What if White plays Nd2?"]
+[Site "https://lichess.org/study/hwgjbtDN/o7XKYOE2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "13:57:27"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nd2 { White plays Nd2 to protect their pawn, this is known as the Modern
+Variation. For the most part, you can just keep the moves normal and take
+the central pawn. } 3... dxe4 $1 4. Nxe4 { According to the Lichess
+Database, from all ratings, Nxe4 is played 100% of the time in this
+variation of alternative moves. This position looks familiar, doesn't it?
+What piece do we develop that challenges White's knight on e4? } 4... Nf6
+$1 { This is a transposition to the other studies that contain Nc3 instead
+of Nd2. For the most part, you will keep everything the same. } { [%cal
+Ye7f6,Yf8d6,Ge4f6,Ye8g8] } *
+

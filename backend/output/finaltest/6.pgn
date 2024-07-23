@@ -1,0 +1,38 @@
+[Event "WIN with the Caro-Kann!: Push-Variation: White develops the knight"]
+[Site "https://lichess.org/study/EMa4kq6F/fRwh2WDk"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "18:05:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ next? } 3... c5 4. Nf3 { White develops his knight out and protects d4.
+Instead of playing Bg4 immediately, we will calmly capture white's d4 pawn.
+} 4... cxd4 5. Nxd4 { Now, we can develop our queenside knight, which
+attacks the white centralized knight and their undefended e5 pawn. } 5...
+Nc6 $1 { [%cal Gc6e5,Gc6d4] } 6. Bb5 { White decides to pin the knight to
+the king; what is the best way to unpin our knight? } { [%cal Rb5c6,Rc6e8]
+} 6... Bd7 $1 7. Bxc6 { What is the best way to recapture it? } 7... bxc6 {
+We recapture with the pawn instead of the bishop because we want to keep
+the bishop pair and create a strong pawn center. } 8. O-O { open your
+dark-squared bishop's diagonal } { [%csl Bf8] } 8... e6 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 9. Nc3 { Attack the center with a flank pawn! }
+9... c5 { [%cal Rc5d4] } 10. Nf3 { Develop your kingside knight to its best
+square } { [%csl Bg8] } 10... Ne7 $1 { We are going for the same idea and
+want to plant our knight on f5. } { [%cal Ge7f5,Gg8e7] } 11. Bg5 { kick
+away the bishop } 11... h6 $1 { [%cal Rh6g5] } 12. Bh4 { attack the bishop
+once more } 12... g5 $1 { [%cal Rg5h4] } 13. Bg3 { Attack the bishop again
+with your knight! } 13... Nf5 $17 { This is the most common line when White
+protects their pawn with the knight. We are already much better with a -1.8
+advantage. We can continue the game with Bc6, placing the bishop on a
+stronger diagonal, Qb6, attacking white's weak b2 pawn, and follow up with
+c4, which gains space on the Queenside. } { [%cal Gd7c6,Gd8b6,Gc5c4] } *
+

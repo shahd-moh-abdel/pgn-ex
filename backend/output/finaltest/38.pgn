@@ -1,0 +1,28 @@
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. Bd3 { Trying to get on with development is best, and
+it's played 13% of the time. } 6... O-O 7. Nge2 Ng6 { [%cal Rg6e5] } 8. f4
+Nh4 { [%cal Rh4g2] } 9. g3 Nf3+ 10. Kf1 Bh3# { [%csl
+Bf2,Be3,Ye1,Yg1,Rf1,Rg2][%cal Bc5g1,Yf3e1,Yf3g1,Rh3f1] } *
+

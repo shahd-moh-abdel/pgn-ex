@@ -1,0 +1,20 @@
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. Nc3 { [%cal Gc3e4,Gc3d5] }
+4... dxe4 { [%csl Rd4] } 5. fxe4 exd4 6. Nce2 Nf6 *
+

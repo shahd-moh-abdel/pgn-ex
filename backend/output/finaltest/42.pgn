@@ -1,0 +1,33 @@
+[Event "WIN with the Caro-Kann!: Defend-Variation: White plays two knights"]
+[Site "https://lichess.org/study/EMa4kq6F/f0a9RHpF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:00:52"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. Nc3 { and? } 2... d5 3.
+Nf3 { White decides to play the two knights against the caro-kann. Develop
+and PIN white's knight! } { [%csl Bc8] } 3... Bg4 $1 { This is known as the
+Mindeno Variation } 4. h3 { Since the white king is not castled, do we take
+or retreat? } 4... Bxf3 $1 { We take! The reason is because if we retreat,
+white can get really aggressive with g4, and Ne5. } 5. Qxf3 { Solidify your
+pawn center and open up your dark-squared bishop } 5... e6 $1 { [%csl
+Gf7,Ge6,Gd5,Gc6,Gb7,Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 6. d4 { Develop your
+kingside knight and attack the center. } 6... Nf6 { [%cal Rf6e4,Rf6d5] } 7.
+e5 { Retreat and prepare the c5 pawn push } 7... Nfd7 { [%cal Rc6c5] } 8.
+Ne2 { White retreats as well to face c5 with c3. } { [%cal Gc2c3] } 8... c5
+$1 9. c3 $1 { Develop your queenside knight to where it exerts more
+pressure on the center. } 9... Nc6 $1 { [%cal Gc6d4,Gc5d4] } 10. Be3 { Take
+in the center to isolate white's d-pawn. } 10... cxd4 11. cxd4 { Give a
+check to the White king with your queen. } 11... Qa5+ $1 { Now Nc3 or Bd2
+are both met with Bb4 and White is really struggling to hold onto the weak
+d4/c3/b2 points. } { [%csl Rd4,Rb2,Re1] } *
+

@@ -1,0 +1,34 @@
+[Event "WIN with the Caro-Kann!: Minority Attack - Bare-Bones Strategy"]
+[Site "https://lichess.org/study/EMa4kq6F/HVt1uM5j"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "16:49:35"]
+[Variant "From Position"]
+[SetUp "1"]
+[FEN "6k1/pp3ppp/4p3/3p4/3P4/2P5/PP3PPP/6K1 b - - 0 1"]
+[ChapterMode "gamebook"]
+
+{ Excuse me for the position I have set up here. We will be looking at the
+BARE-BONE BASICS of the minority attack. In the minority attack, your plan
+revolves around attacking White's queenside pawn majority with your pawn
+minority, hence the name: Minority Attack. Attack with a6! } { [%csl
+Bb7,Ba7] }
+
+1... a6 $1 { This move prepares the pawn push b5! } { [%cal Yb7b5] } 2. Kh1
+{ I am just going to be shuffling the White king around. What move were we
+preparing? } 2... b5 $1 3. Kg1 { Now, push again with your a-pawn! } 3...
+a5 $1 { a5 prepares to push with b4! } { [%cal Rb5b4] } 4. Kh1 b4 5. cxb4 {
+recapture } 5... axb4 6. a3 { Capture their pawn! } 6... bxa3 7. bxa3 { As
+you can see, the White King has 2 isolated, weak pawns, while our pawn
+structure is amazing! Usually, if you execute the minority attack
+correctly, this is the position you will get. And in the endgame, you can
+use your heavy pieces to target these weak pawns and hopefully be up 2
+pawns in material. } { [%csl Bd4,Ba3] } *
+

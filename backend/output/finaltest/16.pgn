@@ -1,0 +1,48 @@
+[Event "WIN with the Caro-Kann!: Take-Variation: White strikes in the center"]
+[Site "https://lichess.org/study/EMa4kq6F/gN1BWXUu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack, Fianchetto Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "17:30:33"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 cxd5 4. c4 { White strikes in the center with c4. This opening is
+known as the Panov Attack. Develop a piece and protect your d5 pawn. } 4...
+Nf6 5. Nc3 { Prepare to fianchetto your dark-squared bishop on the a1 - h8
+diagonal } 5... g6 $1 6. Qb3 { What were we preparing? } 6... Bg7 $1 { We
+don't really care if White takes our d5 pawn because we will easily win it
+back. } 7. cxd5 { As you can see, White's doubled d's are a liability and
+can be easily targeted since they are super weak! For now, we will just
+castle and get our king to safety. } { [%csl Bd5,Bd4][%cal Rd5d4,Rd4d5] }
+7... O-O 8. Be2 { What is a developing knight move that prepares to add
+pressure on white's d5 pawn? } 8... Nbd7 $1 { Correct! That might have been
+tough to see for some of the beginners playing this, but the point is to
+play Nb6 next and attack on the sides of the board. } { [%cal
+Gb8d7,Gd7b6,Rb6d5,Rf6d5] } 9. Bf3 { What were we preparing? } 9... Nb6 $1 {
+[%cal Rb6d5,Rd8d5,Rf6d5] } 10. Nge2 { White develops their knight out
+because they are planning to play Nf4 next, adding more protection to their
+d5 pawn. How do we get rid of White's light-squared bishop? I'll give you a
+hint: Use your light-squared bishop. } { [%csl Bc8][%cal Gg1e2,Ge2f4] }
+10... Bg4 $1 { Correct! White is forced to take, unless they want more
+doubled pawns. } 11. Bxg4 Nxg4 12. a4 { White plays a4 with the idea of a5,
+we will retreat our kingside knight back to where it can attack white's d5
+pawn. } { [%cal Ra4a5] } 12... Nf6 $1 { [%cal
+Rf6d5,Rb6d5,Rd8d5,Bc3d5,Bb3d5] } 13. Nf4 { Not wanting to lose their
+precious central pawn, white protects with their knight. How do we stop
+whites from advancing their a4 pawn to where it can attack our queen's
+knight? } { [%cal Bf4d5,Bc3d5,Bb3d5,Rf6d5,Rd8d5,Rb6d5] } 13... a5 { [%csl
+Ga5,Ga4] } 14. O-O { Develop your queen and prepare to double up on the
+d-file. } 14... Qd6 $1 { [%cal Ga8d8,Gf8d8] } 15. Re1 { Offer a queen trade
+} 15... Qb4 $1 16. Qd1 { Add more pressure on white's d5 pawn with one of
+your rooks. } 16... Rad8 $1 { We don't want to use our f-rook to protect
+because we want to keep the idea of Rfe8 open, protecting our central
+pawns. } { [%csl Rd5,Rd4][%cal Bf8e8,Ye8e1,Yd8d1,Gd8d5,Gf6d5,Gb6d5] } *
+

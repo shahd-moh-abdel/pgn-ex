@@ -1,0 +1,33 @@
+[Event "WIN with the Caro-Kann!: Take-Variation: White calmly develops"]
+[Site "https://lichess.org/study/EMa4kq6F/SpjDNyhD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "01:16:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 { The next few chapters will examine the take-variation, which occurs
+if white takes our pawn. Since we played c6 to expand with d5, what should
+we recapture with? } 3... cxd5 { Very good; it wouldn't make much sense to
+capture with the queen if we played c6 to start. The position is starting
+to resemble a queen's pawn structure. } 4. Bd3 { Develop your queenside
+knight and attack white's undefended d4 pawn. } { [%csl Bb8] } 4... Nc6 5.
+c3 { Develop your other knight } 5... Nf6 { Knights before bishops! } {
+[%csl Bc6,Bf6] } 6. Bf4 { Since White is delaying the development of their
+kingside knight, we have to develop and attack White's queen with tempo.
+Play Bg4 anyway. } 6... Bg4 $1 { If white decides to push f3, this is a bad
+move since it weakens their king's diagonal, and could invite some harmful
+attacking ideas from us. } { [%csl Be1,Bf2,Bg3,Bh4][%cal Rf2f3] } 7. Qb3 {
+Instead, White develops their queen out and takes advantage that b7 is no
+longer guarded. Find the best way to defend b7. } { [%cal Rb3b7] } 7... Qb6
+{ Smart idea, but whites can simply trade pieces and develop their knight
+to a3-b5 and threaten us with a fork on c7. } { [%cal Rb1a3,Ra3b5] } *
+

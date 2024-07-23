@@ -1,0 +1,1335 @@
+[Event "WIN with the Caro-Kann!: - Intro -"]
+[Site "https://lichess.org/study/EMa4kq6F/oTCNsCq4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "15:20:24"]
+[Variant "Standard"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 1"]
+[ChapterMode "gamebook"]
+
+{ Welcome to my new study on the Caro-Kann Defense! In this study you will
+learn how to play the Caro-Kann and how to WIN with the Caro-Kann. Also, if
+you can click the heart ❤️ below👇🏽 on the bottom right, it would
+help me out a ton! Can we reach 1500 hearts ❤️? Check out my new study!
+Simple But DEADLY Openings: https://lichess.org/study/tplyy3hg/GRqG0hdi
+CRUSH Black with the King’s Gambit: Muzio Gambit!
+https://lichess.org/study/tBgQE6YY/FTHf12JE }
+
+*
+
+[Event "WIN with the Caro-Kann!: - Basic Ideas -"]
+[Site "https://lichess.org/study/EMa4kq6F/IzkYXkDh"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "15:24:52"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { Play c6 to initiate the Caro-Kann } 1... c6 { DISCLAIMER: You can
+only play the Caro-Kann against 1. e4. This opening does not work against a
+different first move. If you want to learn an opening that you can apply
+for anything, then check out this study I made:
+https://lichess.org/study/efGLGZOM } 2. d4 { Play d5 } 2... d5 $1 {
+Correct! The Caro-Kann is a unique opening that aims to break up White's
+central pawns by striking in the center with c6-d5. In this position, White
+has many main moves; the green arrows indicate five of the most common. We
+will review each option in detail in the next chapters! } { [%cal
+Gb1c3,Gb1d2,Gf2f3,Ge4e5,Ge4d5] } *
+
+[Event "WIN with the Caro-Kann!: Push-Variation: White supports their center"]
+[Site "https://lichess.org/study/EMa4kq6F/IhWdNz50"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "15:37:12"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ In the first couple of chapters, we will look at what I call the push
+variation. Attack the center by pushing your c-pawn. } 3... c5 $1 { Your
+pawns want to break up the center like this in the Caro-Kann. } 4. c3 { 51%
+of the time, White protects their pawns like this. What is a developing
+move that adds more pressure on the d4 pawn? } 4... Nc6 { [%cal
+Rc5d4,Rc6d4] } 5. Nf3 { White defends their pawn. Here we can simply
+capture white's d4 pawn with our c5 pawn. } 5... cxd4 { Btw, if the knight
+were to recapture, the e5 pawn would no longer be protected and we can
+simply win a pawn. } { [%cal Gf3d4,Gc6e5] } 6. cxd4 { The reason why we
+capture immediately is because we want white to have an isolated pawn. We
+can then use that weak pawn as an advantage for us, as our gameplan will
+mostly be to target that pawn and try to win it to have a material
+advantage in the endgame. Now, develop your light-squared bishop to the
+best square. } { [%csl Rd4,Bc8] } 6... Bg4 $1 { Correct! Whenever White
+develops their knight out, we want to pin it with our bishop. } 7. Be2 {
+Your dark-squared bishop looks a little sad. What move opens up the
+diagonal for your dark-squared bishop? } 7... e6 $1 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 8. O-O { Develop your kingside knight. } { [%csl
+Bg8] } 8... Nge7 { Our idea is to place our knight on f5, where it exerts
+more pressure on white's isolated d4 pawn } { [%cal Be7f5,Rf5d4,Rc6d4] } 9.
+Nc3 { What were we preparing? } 9... Nf5 $1 { [%cal Rf5d4,Rc6d4] } 10. Be3
+{ Develop your dark-squared bishop to the best square. } 10... Be7 11. h3 {
+If White attacks your light-squared bishop, you can trade white's knight
+because it eliminates a key defender of white's already weak, isolated
+pawn. } 11... Bxf3 12. Bxf3 { What bishop move can get rid of White's
+dark-squared bishop? } 12... Bg5 $1 { Correct! } 13. Qd3 { After white
+plays, lets say Qd3, we will simply castle since there is no rush in
+trading bishops. } 13... O-O { Now that our king is safely castled, we can
+trade bishops on the next move if possible. Our game plan is very simple:
+firstly, we will (obviously) trade bishops and then create a minority
+attack on the queenside with a6-b5, follow it up with Rc8, and try to
+undermine the e5 pawn with f6. } { [%cal Gg5e3,Ga7a6,Gb7b5,Ga8c8,Gf7f6] } *
+
+[Event "WIN with the Caro-Kann!: Push-Variation: White trades our c-pawn"]
+[Site "https://lichess.org/study/EMa4kq6F/RhaIWHAH"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "18:03:17"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ next? } 3... c5 4. dxc5 { White decides to capture your pawn. What is the
+best move for your queenside knight? } 4... Nc6 { If white is not careful,
+we will capture their central pawn. } { [%csl Re5][%cal Rc6e5] } 5. Nf3 {
+What move do you play when white's knight is developed? } 5... Bg4 $1 6.
+Be2 { Our dark-squared bishop is looking rather sad. How can we cheer him
+up? } 6... e6 $1 { Very good! Now that the diagonal is opened, we can
+recapture the material. } { [%csl Bf8,Be7,Bd6,Bc5] } 7. O-O { Regain
+material } 7... Bxc5 8. Nc3 { According to the Lichess Database, Nc3 is the
+most popular move. What is a sequence of moves that eliminates the e5 pawn?
+} { [%csl Re5] } 8... Bxf3 $1 { Very good spotting that! We are removing
+the defender of e5. } 9. Bxf3 Nxe5 { Now we can capture and we have a
+dominating center. } 10. Bf4 { Trade the bishop pair. } 10... Nxf3+ 11.
+Qxf3 { Develop your knight out to its best square. } 11... Nf6 { There is
+no reason to go the long route of Ne7 and Nf5 because there are no central
+pawns to target. Our gameplan is very simple. We will castle short, bring
+our queen to c7 or b6 and control the c-file with our rooks. } { [%cal
+Ge8g8,Ga8c8,Gd8c7,Gc7b6] } *
+
+[Event "WIN with the Caro-Kann!: Push-Variation: White tries to suffocate us"]
+[Site "https://lichess.org/study/EMa4kq6F/we7jSiTi"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "18:04:29"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ next? } 3... c5 4. dxc5 { finally? } 4... Nc6 5. f4 { White plays it
+aggressively and protects their e5 pawn with f4. We will continue by
+developing our kingside knight. } { [%csl Bg8] } 5... Nh6 { The point of
+Nh6 is that we see White controlling the dark squares, so we will focus on
+controlling the light squares. } { [%csl Bg4,Rf5,Gb6,Gd6,Gf6,Gg5][%cal
+Gf4g5,Ge5f6,Ge5d6,Gc5d6,Gc5b6,Bc8g4,Rh6f5] } 6. Nf3 { What developing move
+do you play when seeing White's kingside knight develop? } 6... Bg4 $1 7.
+Be2 { How do we open the diagonal for our dark-squared bishop? } { [%csl
+Bf8] } 7... e6 $1 { [%csl Bf8,Be7,Bd6,Bc5] } 8. Be3 { White protects their
+pawn, not wanting to lose their material advantage. How do we attack
+White's dark-squared bishop, forcing it to move? } 8... Nf5 $1 { [%csl
+Re3][%cal Rf5e3] } 9. Bf2 { Now that White's dark-squared bishop has
+retreated, we can take this time to win tempo on the White king and double
+attack White's c5 pawn by playing Qa5+. } 9... Qa5+ { [%cal
+Ra5e1,Ra5c5,Rf8c5] } 10. c3 { White plays c3 with the idea of going b4. We
+will recapture material with Bxc5. } { [%cal Gc2c3,Gb2b4] } 10... Bxc5 $1 {
+In most cases, b4 would fork our bishop and queen, but in this case, when
+we recapture the pawn, we have an in-between move and can trade white's
+dark-squared bishop with a check and then retreat with our queen. } { [%cal
+Gc5f2,Ga8c8,Ge8g8] } *
+
+[Event "WIN with the Caro-Kann!: Push-Variation: White develops the knight"]
+[Site "https://lichess.org/study/EMa4kq6F/fRwh2WDk"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "18:05:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ next? } 3... c5 4. Nf3 { White develops his knight out and protects d4.
+Instead of playing Bg4 immediately, we will calmly capture white's d4 pawn.
+} 4... cxd4 5. Nxd4 { Now, we can develop our queenside knight, which
+attacks the white centralized knight and their undefended e5 pawn. } 5...
+Nc6 $1 { [%cal Gc6e5,Gc6d4] } 6. Bb5 { White decides to pin the knight to
+the king; what is the best way to unpin our knight? } { [%cal Rb5c6,Rc6e8]
+} 6... Bd7 $1 7. Bxc6 { What is the best way to recapture it? } 7... bxc6 {
+We recapture with the pawn instead of the bishop because we want to keep
+the bishop pair and create a strong pawn center. } 8. O-O { open your
+dark-squared bishop's diagonal } { [%csl Bf8] } 8... e6 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 9. Nc3 { Attack the center with a flank pawn! }
+9... c5 { [%cal Rc5d4] } 10. Nf3 { Develop your kingside knight to its best
+square } { [%csl Bg8] } 10... Ne7 $1 { We are going for the same idea and
+want to plant our knight on f5. } { [%cal Ge7f5,Gg8e7] } 11. Bg5 { kick
+away the bishop } 11... h6 $1 { [%cal Rh6g5] } 12. Bh4 { attack the bishop
+once more } 12... g5 $1 { [%cal Rg5h4] } 13. Bg3 { Attack the bishop again
+with your knight! } 13... Nf5 $17 { This is the most common line when White
+protects their pawn with the knight. We are already much better with a -1.8
+advantage. We can continue the game with Bc6, placing the bishop on a
+stronger diagonal, Qb6, attacking white's weak b2 pawn, and follow up with
+c4, which gains space on the Queenside. } { [%cal Gd7c6,Gd8b6,Gc5c4] } *
+
+[Event "Caro-Gyatt: Carlsbad Pawn Structure"]
+[Site "https://lichess.org/study/hwgjbtDN/ZWYLeXQV"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "16:12:16"]
+[Variant "From Position"]
+[SetUp "1"]
+[FEN "8/pp3ppp/4p3/3p4/3P4/2P5/PP3PPP/8 w - - 0 1"]
+[ChapterMode "gamebook"]
+
+{ This is a very common type of pawn structure in the Caro-Kann
+take-variation, known as the Carlsbad pawn structure. White has a queenside
+pawn majority, and we, as black, don't. The fight is 2 pawns vs. 4 pawns.
+Doesn't seem very fair. This is why we will deploy a ruthless queenside
+strategy known as the MINORITY ATTACK!! } { [%csl
+Ba7,Bb7,Bb2,Ba2,Rd4,Rc3,Rd5,Re6] }
+
+*
+
+[Event "WIN with the Caro-Kann!: Minority Attack - Bare-Bones Strategy"]
+[Site "https://lichess.org/study/EMa4kq6F/HVt1uM5j"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "16:49:35"]
+[Variant "From Position"]
+[SetUp "1"]
+[FEN "6k1/pp3ppp/4p3/3p4/3P4/2P5/PP3PPP/6K1 b - - 0 1"]
+[ChapterMode "gamebook"]
+
+{ Excuse me for the position I have set up here. We will be looking at the
+BARE-BONE BASICS of the minority attack. In the minority attack, your plan
+revolves around attacking White's queenside pawn majority with your pawn
+minority, hence the name: Minority Attack. Attack with a6! } { [%csl
+Bb7,Ba7] }
+
+1... a6 $1 { This move prepares the pawn push b5! } { [%cal Yb7b5] } 2. Kh1
+{ I am just going to be shuffling the White king around. What move were we
+preparing? } 2... b5 $1 3. Kg1 { Now, push again with your a-pawn! } 3...
+a5 $1 { a5 prepares to push with b4! } { [%cal Rb5b4] } 4. Kh1 b4 5. cxb4 {
+recapture } 5... axb4 6. a3 { Capture their pawn! } 6... bxa3 7. bxa3 { As
+you can see, the White King has 2 isolated, weak pawns, while our pawn
+structure is amazing! Usually, if you execute the minority attack
+correctly, this is the position you will get. And in the endgame, you can
+use your heavy pieces to target these weak pawns and hopefully be up 2
+pawns in material. } { [%csl Bd4,Ba3] } *
+
+[Event "WIN with the Caro-Kann!: Minority Attack - Queenside Strategy"]
+[Site "https://lichess.org/study/EMa4kq6F/JyswkkRR"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "20:24:50"]
+[Variant "From Position"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bppp/2n1pn2/3p2B1/3P4/2PQ1N2/PP2BPPP/R4RK1 b - - 1 2"]
+[ChapterMode "gamebook"]
+
+{ This is a typical caro-kann position where your dark-squared bishop is
+protecting your knight on f6 which is protecting the h7 square. In this
+fashion, no one can checkmate you. To start the Minority attack, first play
+Rc8 } { [%csl Yh7,Rf6][%cal Re7f6,Yf6h7,Ba8c8,Bc6a5,Ba5c4] }
+
+2... Rc8 $1 { Rc8 is a very important move to start the minority attack
+because you want to control the semi-open c-file with your rook. } { [%cal
+Rc8c1] } 3. Kh1 { Now, prepare b5 with a6! } 3... a6 $1 { [%cal Gb7b5] } 4.
+Kg1 { What move were we preparing? } 4... b5 $1 { Very good! Our rook on c8
+and our d5-b5 pawns all work together to control the important c4 square. }
+{ [%csl Rc4][%cal Rc8c4,Rd5c4,Rb5c4] } 5. Kh1 { The reason is that, in a
+perfect world, you want to plant your knight on the super-strong c4
+outpost! How do you get your knight to c4? } { [%csl Bc4][%cal Bc6a5,Ba5c4]
+} 5... Na5 $1 6. Kg1 { whats next? } 6... Nc4 $1 { This is the main setup
+you are looking for when executing the Minority attack! Next you will play
+a5-b4, to pry apart white's queenside pawn majority. } { [%cal Ra6a5,Rb5b4]
+} 7. Rab1 { what were we setting up? } 7... a5 $1 { [%cal Rb5b4] } 8. Kh1 {
+and? } 8... b4 $1 9. cxb4 { Recapture with the pawn } 9... axb4 { This is
+our main middlegame strategy. We launch our pawns forward to their death,
+but in return, we get a superior pawn structure and weak pawns to target in
+White's camp. You will see this idea of the Minority attack all throughout
+the Take-Variation chapters. } { [%csl Bd4,Bb2,Ba2,Bb4][%cal
+Yf6e4,Yd8b6,Yc8b8,Yf8c8,Gc8c1,Gb8b1,Yb4b3] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: White calmly develops"]
+[Site "https://lichess.org/study/EMa4kq6F/SpjDNyhD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "01:16:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 { The next few chapters will examine the take-variation, which occurs
+if white takes our pawn. Since we played c6 to expand with d5, what should
+we recapture with? } 3... cxd5 { Very good; it wouldn't make much sense to
+capture with the queen if we played c6 to start. The position is starting
+to resemble a queen's pawn structure. } 4. Bd3 { Develop your queenside
+knight and attack white's undefended d4 pawn. } { [%csl Bb8] } 4... Nc6 5.
+c3 { Develop your other knight } 5... Nf6 { Knights before bishops! } {
+[%csl Bc6,Bf6] } 6. Bf4 { Since White is delaying the development of their
+kingside knight, we have to develop and attack White's queen with tempo.
+Play Bg4 anyway. } 6... Bg4 $1 { If white decides to push f3, this is a bad
+move since it weakens their king's diagonal, and could invite some harmful
+attacking ideas from us. } { [%csl Be1,Bf2,Bg3,Bh4][%cal Rf2f3] } 7. Qb3 {
+Instead, White develops their queen out and takes advantage that b7 is no
+longer guarded. Find the best way to defend b7. } { [%cal Rb3b7] } 7... Qd7
+$1 { This is the only good move! Black defends their pawn, stops any Bb5
+absolute pins, and defends the d6 square, making Bd6 possible in the
+future. } { [%cal Rd7b7] } 8. Nd2 { Your bishop looks like it's locked in.
+How can you free up its diagonal? } { [%csl Bf8] } 8... e6 $1 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 9. Ngf3 { Challenge White's control over the h2
+- b8 diagonal. } 9... Bd6 { [%csl Rb8,Rc7,Rd6,Re5,Rf4,Rg3,Rh2] } 10. Bxd6
+Qxd6 11. O-O { White castles, seeing that if they take our b7 pawn, we have
+Rb8 and will win their b2 pawn next. We will do the same and castle too,
+getting our king to safety and connecting our rooks. } 11... O-O { Our main
+game plan will be to launch a minority attack on the queenside by
+controlling the semi-open c-file and expanding with a6-b5 to plant our
+knight on the strong c4 outpost. Since White has a queenside majority, we
+will use our queenside minority to break up White's queenside so that in
+the endgame, White will have isolated or doubled pawns, where we will be
+able to attack them easily. } { [%csl Rd4,Rb7,Ra7,Rc3,Rb2,Ra2][%cal
+Bc8c1,Bb8b1,Ba8a1,Gc6a5,Ga5c4,Ga7a6,Gd6c7,Gf8c8,Gb7b5] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: White calmly develops"]
+[Site "https://lichess.org/study/EMa4kq6F/SpjDNyhD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "01:16:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 { The next few chapters will examine the take-variation, which occurs
+if white takes our pawn. Since we played c6 to expand with d5, what should
+we recapture with? } 3... cxd5 { Very good; it wouldn't make much sense to
+capture with the queen if we played c6 to start. The position is starting
+to resemble a queen's pawn structure. } 4. Bd3 { Develop your queenside
+knight and attack white's undefended d4 pawn. } { [%csl Bb8] } 4... Nc6 5.
+c3 { Develop your other knight } 5... Nf6 { Knights before bishops! } {
+[%csl Bc6,Bf6] } 6. Bf4 { Since White is delaying the development of their
+kingside knight, we have to develop and attack White's queen with tempo.
+Play Bg4 anyway. } 6... Bg4 $1 { If white decides to push f3, this is a bad
+move since it weakens their king's diagonal, and could invite some harmful
+attacking ideas from us. } { [%csl Be1,Bf2,Bg3,Bh4][%cal Rf2f3] } 7. Qb3 {
+Instead, White develops their queen out and takes advantage that b7 is no
+longer guarded. Find the best way to defend b7. } { [%cal Rb3b7] } 7... Rb8
+{ This hangs a rook! } { [%cal Rf4b8] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: White calmly develops"]
+[Site "https://lichess.org/study/EMa4kq6F/SpjDNyhD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "01:16:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 { The next few chapters will examine the take-variation, which occurs
+if white takes our pawn. Since we played c6 to expand with d5, what should
+we recapture with? } 3... cxd5 { Very good; it wouldn't make much sense to
+capture with the queen if we played c6 to start. The position is starting
+to resemble a queen's pawn structure. } 4. Bd3 { Develop your queenside
+knight and attack white's undefended d4 pawn. } { [%csl Bb8] } 4... Nc6 5.
+c3 { Develop your other knight } 5... Nf6 { Knights before bishops! } {
+[%csl Bc6,Bf6] } 6. Bf4 { Since White is delaying the development of their
+kingside knight, we have to develop and attack White's queen with tempo.
+Play Bg4 anyway. } 6... Bg4 $1 { If white decides to push f3, this is a bad
+move since it weakens their king's diagonal, and could invite some harmful
+attacking ideas from us. } { [%csl Be1,Bf2,Bg3,Bh4][%cal Rf2f3] } 7. Qb3 {
+Instead, White develops their queen out and takes advantage that b7 is no
+longer guarded. Find the best way to defend b7. } { [%cal Rb3b7] } 7... Qb6
+{ Smart idea, but whites can simply trade pieces and develop their knight
+to a3-b5 and threaten us with a fork on c7. } { [%cal Rb1a3,Ra3b5] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: White calmly develops"]
+[Site "https://lichess.org/study/EMa4kq6F/SpjDNyhD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "01:16:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 { The next few chapters will examine the take-variation, which occurs
+if white takes our pawn. Since we played c6 to expand with d5, what should
+we recapture with? } 3... cxd5 { Very good; it wouldn't make much sense to
+capture with the queen if we played c6 to start. The position is starting
+to resemble a queen's pawn structure. } 4. Bd3 { Develop your queenside
+knight and attack white's undefended d4 pawn. } { [%csl Bb8] } 4... Nc6 5.
+c3 { Develop your other knight } 5... Nf6 { Knights before bishops! } {
+[%csl Bc6,Bf6] } 6. Bf4 { Since White is delaying the development of their
+kingside knight, we have to develop and attack White's queen with tempo.
+Play Bg4 anyway. } 6... Bg4 $1 { If white decides to push f3, this is a bad
+move since it weakens their king's diagonal, and could invite some harmful
+attacking ideas from us. } { [%csl Be1,Bf2,Bg3,Bh4][%cal Rf2f3] } 7. Qb3 {
+Instead, White develops their queen out and takes advantage that b7 is no
+longer guarded. Find the best way to defend b7. } { [%cal Rb3b7] } 7... Na5
+{ This is one way to defend, but white can force a perpetual with Qa4+ Nc6
+Qb3 Na5 Qa4+ Nc6 Qb3 Na5 Qa4+ } { [%cal Gb3a4,Ga5c6,Ga4b3,Gc6a5] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: White calmly develops"]
+[Site "https://lichess.org/study/EMa4kq6F/SpjDNyhD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "01:16:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 { The next few chapters will examine the take-variation, which occurs
+if white takes our pawn. Since we played c6 to expand with d5, what should
+we recapture with? } 3... cxd5 { Very good; it wouldn't make much sense to
+capture with the queen if we played c6 to start. The position is starting
+to resemble a queen's pawn structure. } 4. Bd3 { Develop your queenside
+knight and attack white's undefended d4 pawn. } { [%csl Bb8] } 4... Nc6 5.
+c3 { Develop your other knight } 5... Nf6 { Knights before bishops! } {
+[%csl Bc6,Bf6] } 6. Bf4 { Since White is delaying the development of their
+kingside knight, we have to develop and attack White's queen with tempo.
+Play Bg4 anyway. } 6... Bg4 $1 { If white decides to push f3, this is a bad
+move since it weakens their king's diagonal, and could invite some harmful
+attacking ideas from us. } { [%csl Be1,Bf2,Bg3,Bh4][%cal Rf2f3] } 7. Qb3 {
+Instead, White develops their queen out and takes advantage that b7 is no
+longer guarded. Find the best way to defend b7. } { [%cal Rb3b7] } 7... Qc8
+{ Nice idea, but our queen no longer defends the d6 square meaning Bd6 in
+the future is no longer possible. } { [%csl Gd6][%cal Gc8d6] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: White takes the bait"]
+[Site "https://lichess.org/study/EMa4kq6F/ZPMDuf17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "17:20:59"]
+[Variant "Standard"]
+[SetUp "1"]
+[FEN "r3k2r/pp3ppp/2nqpn2/3p4/3P2b1/1QPB1N2/PP1N1PPP/R3K2R w KQkq - 0 11"]
+[ChapterMode "gamebook"]
+
+11. Qxb7 { White takes our b7 pawn and now is in deep trouble. What move
+attacks the queen and forces her to move away? } 11... Rb8 $1 12. Qa6 { Get
+your king to safety! If you regain material too quickly, White can pin your
+knight and white is guaranteed to win material! } { [%csl Rc6,Re8][%cal
+Rd3b5,Gb8b2,Rb5e8] } 12... O-O $1 13. O-O { Attack the queen once more with
+your rook! } 13... Rb6 $1 14. Qa3 { Trade queens } 14... Qxa3 15. bxa3 {
+Develop your kingside rook to where it can exert pressure the semi-open
+c-file } 15... Rc8 $1 { Even though we are down a pawn, White has a
+terrible queenside structure. They have doubled and isolated a-pawns, and
+their d and c-pawn islands are very weak. In most cases, you can target
+these pawns and win material back, if not more material. } { [%csl
+Ba3,Ba2,Bd4,Bc3][%cal Rc8c1,Rb6b1] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: White strikes in the center"]
+[Site "https://lichess.org/study/EMa4kq6F/gN1BWXUu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack, Fianchetto Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "17:30:33"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 cxd5 4. c4 { White strikes in the center with c4. This opening is
+known as the Panov Attack. Develop a piece and protect your d5 pawn. } 4...
+Nf6 5. Nc3 { Prepare to fianchetto your dark-squared bishop on the a1 - h8
+diagonal } 5... g6 $1 6. Qb3 { What were we preparing? } 6... Bg7 $1 { We
+don't really care if White takes our d5 pawn because we will easily win it
+back. } 7. cxd5 { As you can see, White's doubled d's are a liability and
+can be easily targeted since they are super weak! For now, we will just
+castle and get our king to safety. } { [%csl Bd5,Bd4][%cal Rd5d4,Rd4d5] }
+7... O-O 8. Be2 { What is a developing knight move that prepares to add
+pressure on white's d5 pawn? } 8... Nbd7 $1 { Correct! That might have been
+tough to see for some of the beginners playing this, but the point is to
+play Nb6 next and attack on the sides of the board. } { [%cal
+Gb8d7,Gd7b6,Rb6d5,Rf6d5] } 9. Bf3 { What were we preparing? } 9... Nb6 $1 {
+[%cal Rb6d5,Rd8d5,Rf6d5] } 10. Nge2 { White develops their knight out
+because they are planning to play Nf4 next, adding more protection to their
+d5 pawn. How do we get rid of White's light-squared bishop? I'll give you a
+hint: Use your light-squared bishop. } { [%csl Bc8][%cal Gg1e2,Ge2f4] }
+10... Bg4 $1 { Correct! White is forced to take, unless they want more
+doubled pawns. } 11. Bxg4 Nxg4 12. a4 { White plays a4 with the idea of a5,
+we will retreat our kingside knight back to where it can attack white's d5
+pawn. } { [%cal Ra4a5] } 12... Nf6 $1 { [%cal
+Rf6d5,Rb6d5,Rd8d5,Bc3d5,Bb3d5] } 13. Nf4 { Not wanting to lose their
+precious central pawn, white protects with their knight. How do we stop
+whites from advancing their a4 pawn to where it can attack our queen's
+knight? } { [%cal Bf4d5,Bc3d5,Bb3d5,Rf6d5,Rd8d5,Rb6d5] } 13... a5 { [%csl
+Ga5,Ga4] } 14. O-O { Develop your queen and prepare to double up on the
+d-file. } 14... Qd6 $1 { [%cal Ga8d8,Gf8d8] } 15. Re1 { Offer a queen trade
+} 15... Qb4 $1 16. Qd1 { Add more pressure on white's d5 pawn with one of
+your rooks. } 16... Rad8 $1 { We don't want to use our f-rook to protect
+because we want to keep the idea of Rfe8 open, protecting our central
+pawns. } { [%csl Rd5,Rd4][%cal Bf8e8,Ye8e1,Yd8d1,Gd8d5,Gf6d5,Gb6d5] } *
+
+[Event "WIN with the Caro-Kann!: Take-Variation: Nf3 natural development"]
+[Site "https://lichess.org/study/EMa4kq6F/ITUQ3CZF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "18:04:59"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 cxd5 4. Nf3 { White plays the very natural Nf3; we will continue by
+developing ur kingside to its best square. } 4... Nf6 5. Bd3 { Pin white's
+knight! } 5... Bg4 $1 6. O-O { attack white's undefended d4 pawn and
+develop at the same time. } 6... Nc6 { [%cal Rc6d4] } 7. c3 { Open up the
+diagonal for your dark-squared bishop } 7... e6 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3][%cal Gf8e7,Ge7d6] } 8. Bg5 { White decides to pin
+your knight to your queen. Usually, when we see this, we want to unpin. How
+do you unpin the most effective way? } 8... Be7 $1 9. Nbd2 { Get your king
+to safety! } 9... O-O 10. Re1 { White played Re1, getting their rook into
+the game and protecting the key e5 square. We will draw back our
+light-squared bishop to h5. } 10... Bh5 $1 { With this clever defensive
+idea going for trade on g6, we can nullify the pressure from the strong
+Bd3. In the future, we would also like to start queenside play with Rb8 and
+b5-b4 to create weaknesses and targets on White's queenside. This is known
+as the minority attack; as said in the previous chapters, this is our main
+middlegame plan! :D } { [%cal Rh5g6,Ra8b8,Rb7b5,Rb5b4] } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White naturally develops"]
+[Site "https://lichess.org/study/EMa4kq6F/2PnyGurQ"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "18:37:37"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 { White plays the classical line of defending their central pawn. We
+will proceed by capturing their central pawn anyway. } 3... dxe4 4. Nxe4 {
+This is because we can follow up with Nf6 and gain quick development } 4...
+Nf6 5. Nxf6+ { which pawn do you take back with? } 5... exf6 { Correct!
+Taking back with the e-pawn is best because it opens up the diagonal for
+the dark-squared bishop to be developed. This opening is known as the
+Tartakower Variation } { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3,Gc8,Gd7,Ge6,Gf5,Gg4,Gh3] } 6. Nf3 { What is the
+most natural developing square for our dark-squared bishop? } { [%csl Bf8]
+} 6... Bd6 $1 { Correct! In the Tartakower Variation, your dark-squared
+bishop belongs on the d6 square, in most cases you develop your
+dark-squared bishop before you pin white's knight with your light-squared
+bishop. } 7. Bd3 { Get the king to safety } 7... O-O 8. O-O { Now you can
+pin White's knight } { [%csl Bc8] } 8... Bg4 $1 9. h3 { White attacks our
+light-squared bishop immediately. What move do we play here, do we draw
+back or trade? } 9... Bh5 $1 { Correct! We draw back now because White's
+king is already castled, so White would just be creating weaknesses by
+pushing g4. } 10. Re1 { Develop your queenside knight } { [%csl Bb8] }
+10... Nd7 11. c3 { Fight for control over the e-file. } 11... Re8 12. Rxe8+
+Qxe8 13. Be3 { White plays Be3, developing their dark-squared bishop out to
+protect their center. We want to continue with a piece move that protects
+the vulnerable h7 pawn so we don't have to worry about mating threats on
+the b1 - h7 diagonal. } { [%csl Rh7] } 13... Nf8 $1 { [%cal Rf8h7] } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White naturally develops"]
+[Site "https://lichess.org/study/EMa4kq6F/2PnyGurQ"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "18:37:37"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 { White plays the classical line of defending their central pawn. We
+will proceed by capturing their central pawn anyway. } 3... dxe4 4. Nxe4 {
+This is because we can follow up with Nf6 and gain quick development } 4...
+Nf6 5. Nxf6+ { which pawn do you take back with? } 5... gxf6 { Taking back
+with the g-pawn might look tempting, as it opens up the g-file where you
+can strategically place your h-rook on it, but it does not help us develop
+pieces fast. } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White naturally develops"]
+[Site "https://lichess.org/study/EMa4kq6F/2PnyGurQ"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "18:37:37"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 { White plays the classical line of defending their central pawn. We
+will proceed by capturing their central pawn anyway. } 3... dxe4 4. Nxe4 {
+This is because we can follow up with Nf6 and gain quick development } 4...
+Nf6 5. Nxf6+ { which pawn do you take back with? } 5... exf6 { Correct!
+Taking back with the e-pawn is best because it opens up the diagonal for
+the dark-squared bishop to be developed. This opening is known as the
+Tartakower Variation } { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3,Gc8,Gd7,Ge6,Gf5,Gg4,Gh3] } 6. Nf3 { What is the
+most natural developing square for our dark-squared bishop? } { [%csl Bf8]
+} 6... Bd6 $1 { Correct! In the Tartakower Variation, your dark-squared
+bishop belongs on the d6 square, in most cases you develop your
+dark-squared bishop before you pin white's knight with your light-squared
+bishop. } 7. Bd3 { Get the king to safety } 7... O-O 8. O-O { Now you can
+pin White's knight } { [%csl Bc8] } 8... Bg4 $1 9. h3 { White attacks our
+light-squared bishop immediately. What move do we play here, do we draw
+back or trade? } 9... Bxf3 { Trading is not very good in this case because
+White gets free development. } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White disrupts with Qe2+"]
+[Site "https://lichess.org/study/EMa4kq6F/ZbhZxaKN"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "19:53:55"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Qe2+ { White tries to
+disrupt our natural development with Qe2+. However we can simply block it
+with Be6. } 7... Be6 8. Be3 { Get your king to safety } 8... O-O 9. O-O-O {
+According to the Lichess Database, O-O-O is played 61% of the time. White
+is trying to be aggressive, and push pawns on the kingside. However, White
+blundered a pawn. Can you find the winning move? } 9... Bxa2 $1 { Correct!
+If White tries to go b3 to trap our light-squared bishop, we can follow up
+with Ba3+, and White has to move their king back into the center. } 10. b3
+{ What do we play here? } 10... Ba3+ $1 { [%csl Ra3,Rb2,Rc1,Ra2,Rb1][%cal
+Ra3c1,Ra2b1] } 11. Kd2 { Now, we can follow up with another powerful check.
+} { [%csl Bd8] } 11... Qa5+ $1 { [%csl
+Re1,Rd2,Rc3,Rb4,Ra5,Ra3,Ra2,Rb2,Rb1,Rc1][%cal Ra3c1,Ra2b1,Ra5e1] } 12. Kd3
+{ Develop your queenside knight to the best square where it can create
+threats on the very weak White king. } { [%csl Bb8] } 12... Na6 $19 {
+Correct! Our knight is now threatening to give a check on b4 to the White
+King. White is completely losing. } { [%cal Ra6b4] } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White retreats to g3"]
+[Site "https://lichess.org/study/EMa4kq6F/ohhq0GdT"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:51:24"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 { White retreats back to g3. A very passive
+play for white, but it is played very often, as it is the second most
+common response to Nf6. We will respond with h5 because we want to attack
+white's badly placed knight with h4, forcing it to move again. } 5... h5 $1
+{ [%cal Rh5h4] } 6. h4 { Remember, if white allows us to play h4, then we
+will. In this case, white stops us, and we will continue by attacking the
+center with our c-pawn. } 6... c5 $1 { This also makes way for Nc6 ideas. }
+{ [%cal Gc5d4,Rb8c6,Bd8d1] } 7. Nf3 { What developing move do you play when
+you see white develop their knight out? } 7... Bg4 $1 { It's around equal
+but I like how we're able to develop rapidly with threats. We will continue
+with Nc6 and e6. } { [%csl Rd4][%cal Rg4d1,Ge7e6,Gb8c6] } *
+
+[Event "Caro-Gyatt: What if White plays Nd2?"]
+[Site "https://lichess.org/study/hwgjbtDN/o7XKYOE2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "13:57:27"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nd2 { White plays Nd2 to protect their pawn, this is known as the Modern
+Variation. For the most part, you can just keep the moves normal and take
+the central pawn. } 3... dxe4 $1 4. Nxe4 { According to the Lichess
+Database, from all ratings, Nxe4 is played 100% of the time in this
+variation of alternative moves. This position looks familiar, doesn't it?
+What piece do we develop that challenges White's knight on e4? } 4... Nf6
+$1 { This is a transposition to the other studies that contain Nc3 instead
+of Nd2. For the most part, you will keep everything the same. } { [%cal
+Ye7f6,Yf8d6,Ge4f6,Ye8g8] } *
+
+[Event "Caro-Gyatt: What if White plays Nd2?"]
+[Site "https://lichess.org/study/hwgjbtDN/o7XKYOE2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "13:57:27"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nd2 { White plays Nd2 to protect their pawn, this is known as the Modern
+Variation. For the most part, you can just keep the moves normal and take
+the central pawn. } 3... dxe4 $1 4. Nxe4 { According to the Lichess
+Database, from all ratings, Nxe4 is played 100% of the time in this
+variation of alternative moves. This position looks familiar, doesn't it?
+What piece do we develop that challenges White's knight on e4? } 4... Bf5 {
+Close, but we are not studying this move in our study! } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White plays the alien gambit"]
+[Site "https://lichess.org/study/EMa4kq6F/TYTPe3hc"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Alien Gambit"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "20:04:10"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 dxe4 4. Nxe4 Nf6 5. Ng5 { White plays Ng5, hoping to sacrifice their
+knight on f7 to weaken your king. This opening is known as the alien gambit
+as popular streamer, Witty_Alien popularized it in 2024. We will continue
+by gaining tempo on white's knight with h6. } 5... h6 { [%csl Rg5][%cal
+Rh6g5] } 6. Nxf7 $4 { And white sacrifices... THE KNIIIGHT!!! OHH OHH
+BRILLIANCY OH MY GAWDDD!! We simply take back, not allowing white to win
+material. } 6... Kxf7 7. Nf3 { The alien gambit can be refuted easily if
+you understand one thing: White wants to attack your king non-stop, so we
+will counterattack by pressuring the center. What move pressures the center
+and gives way for Nc6? } 7... c5 $1 { Correct! The move c5 attacks the
+center and also makes way for us to develop our knight out to c6, where it
+can also exert more pressure. } { [%cal Gb8c6] } 8. Bc4+ { White checks us,
+we will simply block with our pawn } 8... e6 $1 9. Ne5+ { what is the best
+square to hide our king? } 9... Kg8 $1 10. Ng6 { White is now attacking our
+rook; moving our rook to safety would be a waste of time, so we can take
+this time to develop our queenside knight out to attack the center. } {
+[%cal Rg6h8] } 10... Nc6 { [%cal Gc6d4,Gc5d4] } 11. Nxh8 { recapture }
+11... Kxh8 12. O-O { Take back with your pawn. } 12... cxd4 $1 { Even
+though we are only up 1 pawn, we completely win, and the engine says we
+have a -3.0 advantage. Our central pawn is taking away the naturally
+developing squares for white. We will continue with Qe8, e5, and Be6 to
+trade off the light-squared bishops and finish off our development with
+Bc5. } { [%csl Re3,Rc3][%cal Ge6e5,Gd8e8,Gc8e6,Gf8c5,Rd4e3,Rd4c3] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. exd5 { White's most popular move here but I don't
+understand the point of opening the position and helping us develop with
+Nc6. Expect to come across exd5 34% of the time. } 6... cxd5 { [%cal Gb8c6]
+} 7. Bb5+ Nbc6 { We're down a pawn but are ready to castle. Just compared
+our active pieces and safer King to White's and it'll be obvious we have
+sufficient compensation. } { [%csl Re5][%cal Ge8g8,Gd8b6] } 8. Nge2 O-O {
+Not only castling but threatening Nxe5. } { [%cal Rc6e5] } 9. f4 f6 $1 { A
+nice way to activate the Rook and open roads to White's King. Our bishop
+stands strong on c5 and we can activate the queen to b6 and the
+light-squared bishop on the natural squares. } { [%csl Gc5,Gf8,Gf6][%cal
+Gc8g4,Gd8b6] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. c3 dxe4 5. dxe5 Qxd1+ 6. Kxd1
+Nd7 *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. c3 dxe4 5. fxe4 Qh4+ $1 {
+[%cal Rh4e1,Rh4e4] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. Nc3 { [%cal Gc3e4,Gc3d5] }
+4... dxe4 { [%csl Rd4] } 5. dxe5 Qxd1+ { [%cal Gb8d7] } 6. Nxd1 Nd7 { [%csl
+Re5] } 7. f4 { [%csl Ge5] } 7... f6 { [%cal Gd1f2] } 8. exf6 Ngxf6 9. Nc3
+Bc5 *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. Nc3 { [%cal Gc3e4,Gc3d5] }
+4... dxe4 { [%csl Rd4] } 5. fxe4 exd4 6. Nce2 Nf6 *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. Nc3 { [%cal Gc3e4,Gc3d5] }
+4... dxe4 { [%csl Rd4] } 5. dxe5 Qxd1+ { [%cal Gb8d7] } 6. Nxd1 Nd7 { [%csl
+Re5] } 7. f4 { [%csl Ge5] } 7... f6 { [%cal Gd1f2] } 8. Nf2 fxe5 9. Nxe4
+Ngf6 10. Nxf6+ gxf6 *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. exd5 exd4 5. Qxd4 cxd5 { [%cal
+Gb8c6,Gc8e6,Gg8f6] } 6. Bb5+ Nc6 7. Nc3 { [%csl Rd5] } 7... Nf6 8. Bg5 Be7
+{ [%csl Gf6] } 9. O-O-O O-O { [%cal Gc8e6,Gd8a5,Ga8c8] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Ne2 { [%csl Re2] } 5... Nd7 { [%cal Rd7e5] } 6. Bf4 { [%csl Rb2] } 6...
+Qb6 { [%cal Rc5f2,Rb6b2] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Bd3 Qb6 { [%cal Rb6f2] } 6. Ne2 Nd7 { [%cal Rd7e5] } 7. f4 dxe4 8. Bxe4
+f6 9. e6 Bf2+ { [%cal Gd7c5] } 10. Kf1 Nc5 { [%cal Rc5e4,Rc5e6,Rc8e6,Ga8d8]
+} *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. exd5 Qb6 { [%cal Rc5f2] } 6. Nh3 Bxh3 7. gxh3 cxd5 { [%cal
+Gc5f2,Gb8c6,Gg8e7] } 8. Qxd5 Bf2+ 9. Ke2 Nc6 10. Nc3 Bg1 *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. Bd3 { Trying to get on with development is best, and
+it's played 13% of the time. } 6... O-O 7. f4 { Preparing Nf3 is the
+computer-approved response. } { [%cal Gg1f3] } 7... Na6 { An original way
+to get the knight out and bother White before an they figure out how to
+untangle. } { [%cal Ga6c5,Ga6b4,Gc5b6] } 8. Nf3 Nb4 { We attack the bishop
+on d3. } { [%csl Rd3] } 9. Qe2 { [%csl Gd3] } 9... a5 { And we're not in a
+hurry. If a3, we'll take on d3. If exd5, we can play Nexd5. } { [%cal
+Ga2a3,Gb4d3,Ge4d5,Ge7d5] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. Bd3 { Trying to get on with development is best, and
+it's played 13% of the time. } 6... O-O 7. Nge2 Ng6 { [%cal Rg6e5] } 8. f4
+Nh4 { [%cal Rh4g2] } 9. Kf1 f6 *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. Bd3 { Trying to get on with development is best, and
+it's played 13% of the time. } 6... O-O 7. Nge2 Ng6 { [%cal Rg6e5] } 8. f4
+Nh4 { [%cal Rh4g2] } 9. g3 Nf3+ 10. Kf1 Bh3# { [%csl
+Bf2,Be3,Ye1,Yg1,Rf1,Rg2][%cal Bc5g1,Yf3e1,Yf3g1,Rh3f1] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. exd5 { White's most popular move here but I don't
+understand the point of opening the position and helping us develop with
+Nc6. Expect to come across exd5 34% of the time. } 6... cxd5 { [%cal Gb8c6]
+} 7. Bg5 { [%csl Re7,Rd8,Rd5][%cal Rg5e7,Re7d8,Rd1d5,Rc3d5] } 7... O-O {
+[%cal Ge7d5,Gd8d5] } 8. Qd2 { [%cal Ge1c1,Gb8c6] } 8... Nbc6 9. O-O-O {
+[%csl Rd5][%cal Rd2d5,Rc3d5] } 9... Be6 { [%cal Gd8d5,Ge6d5,Ge7d5] } 10. f4
+{ [%cal Rf4e5,Rf4f5] } 10... Qa5 { [%csl Gd8,Ge7,Gg5][%cal
+Ra5c3,Rc3d2,Rc5b4,Rc6d4,Rc6b4,Ra8c8,Ra5a2] } *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. exd5 { White's most popular move here but I don't
+understand the point of opening the position and helping us develop with
+Nc6. Expect to come across exd5 34% of the time. } 6... cxd5 { [%cal Gb8c6]
+} 7. Bg5 { [%csl Re7,Rd8,Rd5][%cal Rg5e7,Re7d8,Rd1d5,Rc3d5] } 7... O-O {
+[%cal Ge7d5,Gd8d5] } 8. Bxe7 { [%cal Ge7d5] } 8... Qxe7 9. Qxd5 $2 Rd8 $1
+10. Qe4 Rd4 *
+
+[Event "CRUSH the Fantasy Caro-Kann with this rare gambit!: Wild e5 Counteratttack"]
+[Site "https://lichess.org/study/z6ZSwYSM/Lywif48k"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:34:57"]
+[Variant "Standard"]
+
+1. e4 c6 { [%cal Gd7d5] } 2. d4 { [%csl Ge4,Gd4] } 2... d5 { [%csl
+Gd5,Gc6,Gb7] } 3. f3 { [%csl Gf3,Ge4,Gd4] } 3... e5 $3 { A violent
+reaction! Our idea is to remove the d4 pawn so we can get access to
+weakened g1-a7 diagonal. } { [%csl Re5] } 4. dxe5 { White accepts our
+gambit 62% of the time. It makes sense to grab a free pawn in the center! }
+{ [%cal Ra7g1] } 4... Bc5 $1 { Taking control of the weakened diagonal. }
+5. Nc3 { White's best bet is to keep developing. This also creates ideas of
+Na4. And you'll see this move the most (38%). } 5... Ne7 { Just continuing
+with development and gunning for long term compensation with White's
+stranded king. } 6. exd5 { White's most popular move here but I don't
+understand the point of opening the position and helping us develop with
+Nc6. Expect to come across exd5 34% of the time. } 6... cxd5 { [%cal Gb8c6]
+} 7. Bg5 { [%csl Re7,Rd8,Rd5][%cal Rg5e7,Re7d8,Rd1d5,Rc3d5] } 7... O-O {
+[%cal Ge7d5,Gd8d5] } 8. Bxe7 { [%cal Ge7d5] } 8... Qxe7 9. f4 Rd8 10. Nxd5
+Qf8 { [%cal Gb8c6,Gc8e6] } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White plays two knights"]
+[Site "https://lichess.org/study/EMa4kq6F/f0a9RHpF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:00:52"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. Nc3 { and? } 2... d5 3.
+Nf3 { White decides to play the two knights against the caro-kann. Develop
+and PIN white's knight! } { [%csl Bc8] } 3... Bg4 $1 { This is known as the
+Mindeno Variation } 4. h3 { Since the white king is not castled, do we take
+or retreat? } 4... Bxf3 $1 { We take! The reason is because if we retreat,
+white can get really aggressive with g4, and Ne5. } 5. Qxf3 { Solidify your
+pawn center and open up your dark-squared bishop } 5... e6 $1 { [%csl
+Gf7,Ge6,Gd5,Gc6,Gb7,Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 6. d4 { Develop your
+kingside knight and attack the center. } 6... Nf6 { [%cal Rf6e4,Rf6d5] } 7.
+e5 { Retreat and prepare the c5 pawn push } 7... Nfd7 { [%cal Rc6c5] } 8.
+Ne2 { White retreats as well to face c5 with c3. } { [%cal Gc2c3] } 8... c5
+$1 9. c3 $1 { Develop your queenside knight to where it exerts more
+pressure on the center. } 9... Nc6 $1 { [%cal Gc6d4,Gc5d4] } 10. Be3 { Take
+in the center to isolate white's d-pawn. } 10... cxd4 11. cxd4 { Give a
+check to the White king with your queen. } 11... Qa5+ $1 { Now Nc3 or Bd2
+are both met with Bb4 and White is really struggling to hold onto the weak
+d4/c3/b2 points. } { [%csl Rd4,Rb2,Re1] } *
+
+[Event "WIN with the Caro-Kann!: Defend-Variation: White plays two knights"]
+[Site "https://lichess.org/study/EMa4kq6F/f0a9RHpF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:00:52"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. Nc3 { and? } 2... d5 3.
+Nf3 { White decides to play the two knights against the caro-kann. Develop
+and PIN white's knight! } { [%csl Bc8] } 3... Bg4 $1 { This is known as the
+Mindeno Variation } 4. h3 { Since the white king is not castled, do we take
+or retreat? } 4... Bh5 { [%cal Gg2g4,Gf3e5,Gh5g6,Re5g6] } *
+
+[Event "WIN with the Caro-Kann!: - Outro -"]
+[Site "https://lichess.org/study/EMa4kq6F/Dy4d9wr6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "23:33:45"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+{ If you reached the end of my study, thank you so much! I hope you learned
+something new, and if you did, don't mind hearting my study! Don't mind
+checking out my channel if you want!
+www.youtube.com/channel/UC_IBmgDDvxtOtiVt_uhAeRQ }
+
+*
+

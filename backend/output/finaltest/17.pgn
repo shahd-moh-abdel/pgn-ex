@@ -1,0 +1,33 @@
+[Event "WIN with the Caro-Kann!: Take-Variation: Nf3 natural development"]
+[Site "https://lichess.org/study/EMa4kq6F/ITUQ3CZF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "18:04:59"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 cxd5 4. Nf3 { White plays the very natural Nf3; we will continue by
+developing ur kingside to its best square. } 4... Nf6 5. Bd3 { Pin white's
+knight! } 5... Bg4 $1 6. O-O { attack white's undefended d4 pawn and
+develop at the same time. } 6... Nc6 { [%cal Rc6d4] } 7. c3 { Open up the
+diagonal for your dark-squared bishop } 7... e6 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3][%cal Gf8e7,Ge7d6] } 8. Bg5 { White decides to pin
+your knight to your queen. Usually, when we see this, we want to unpin. How
+do you unpin the most effective way? } 8... Be7 $1 9. Nbd2 { Get your king
+to safety! } 9... O-O 10. Re1 { White played Re1, getting their rook into
+the game and protecting the key e5 square. We will draw back our
+light-squared bishop to h5. } 10... Bh5 $1 { With this clever defensive
+idea going for trade on g6, we can nullify the pressure from the strong
+Bd3. In the future, we would also like to start queenside play with Rb8 and
+b5-b4 to create weaknesses and targets on White's queenside. This is known
+as the minority attack; as said in the previous chapters, this is our main
+middlegame plan! :D } { [%cal Rh5g6,Ra8b8,Rb7b5,Rb5b4] } *
+

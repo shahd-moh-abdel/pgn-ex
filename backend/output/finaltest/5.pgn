@@ -1,0 +1,37 @@
+[Event "WIN with the Caro-Kann!: Push-Variation: White tries to suffocate us"]
+[Site "https://lichess.org/study/EMa4kq6F/we7jSiTi"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "18:04:29"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ next? } 3... c5 4. dxc5 { finally? } 4... Nc6 5. f4 { White plays it
+aggressively and protects their e5 pawn with f4. We will continue by
+developing our kingside knight. } { [%csl Bg8] } 5... Nh6 { The point of
+Nh6 is that we see White controlling the dark squares, so we will focus on
+controlling the light squares. } { [%csl Bg4,Rf5,Gb6,Gd6,Gf6,Gg5][%cal
+Gf4g5,Ge5f6,Ge5d6,Gc5d6,Gc5b6,Bc8g4,Rh6f5] } 6. Nf3 { What developing move
+do you play when seeing White's kingside knight develop? } 6... Bg4 $1 7.
+Be2 { How do we open the diagonal for our dark-squared bishop? } { [%csl
+Bf8] } 7... e6 $1 { [%csl Bf8,Be7,Bd6,Bc5] } 8. Be3 { White protects their
+pawn, not wanting to lose their material advantage. How do we attack
+White's dark-squared bishop, forcing it to move? } 8... Nf5 $1 { [%csl
+Re3][%cal Rf5e3] } 9. Bf2 { Now that White's dark-squared bishop has
+retreated, we can take this time to win tempo on the White king and double
+attack White's c5 pawn by playing Qa5+. } 9... Qa5+ { [%cal
+Ra5e1,Ra5c5,Rf8c5] } 10. c3 { White plays c3 with the idea of going b4. We
+will recapture material with Bxc5. } { [%cal Gc2c3,Gb2b4] } 10... Bxc5 $1 {
+In most cases, b4 would fork our bishop and queen, but in this case, when
+we recapture the pawn, we have an in-between move and can trade white's
+dark-squared bishop with a check and then retreat with our queen. } { [%cal
+Gc5f2,Ga8c8,Ge8g8] } *
+

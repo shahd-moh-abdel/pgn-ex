@@ -1,0 +1,40 @@
+[Event "WIN with the Caro-Kann!: Defend-Variation: White plays the alien gambit"]
+[Site "https://lichess.org/study/EMa4kq6F/TYTPe3hc"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Alien Gambit"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "20:04:10"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 dxe4 4. Nxe4 Nf6 5. Ng5 { White plays Ng5, hoping to sacrifice their
+knight on f7 to weaken your king. This opening is known as the alien gambit
+as popular streamer, Witty_Alien popularized it in 2024. We will continue
+by gaining tempo on white's knight with h6. } 5... h6 { [%csl Rg5][%cal
+Rh6g5] } 6. Nxf7 $4 { And white sacrifices... THE KNIIIGHT!!! OHH OHH
+BRILLIANCY OH MY GAWDDD!! We simply take back, not allowing white to win
+material. } 6... Kxf7 7. Nf3 { The alien gambit can be refuted easily if
+you understand one thing: White wants to attack your king non-stop, so we
+will counterattack by pressuring the center. What move pressures the center
+and gives way for Nc6? } 7... c5 $1 { Correct! The move c5 attacks the
+center and also makes way for us to develop our knight out to c6, where it
+can also exert more pressure. } { [%cal Gb8c6] } 8. Bc4+ { White checks us,
+we will simply block with our pawn } 8... e6 $1 9. Ne5+ { what is the best
+square to hide our king? } 9... Kg8 $1 10. Ng6 { White is now attacking our
+rook; moving our rook to safety would be a waste of time, so we can take
+this time to develop our queenside knight out to attack the center. } {
+[%cal Rg6h8] } 10... Nc6 { [%cal Gc6d4,Gc5d4] } 11. Nxh8 { recapture }
+11... Kxh8 12. O-O { Take back with your pawn. } 12... cxd4 $1 { Even
+though we are only up 1 pawn, we completely win, and the engine says we
+have a -3.0 advantage. Our central pawn is taking away the naturally
+developing squares for white. We will continue with Qe8, e5, and Be6 to
+trade off the light-squared bishops and finish off our development with
+Bc5. } { [%csl Re3,Rc3][%cal Ge6e5,Gd8e8,Gc8e6,Gf8c5,Rd4e3,Rd4c3] } *
+

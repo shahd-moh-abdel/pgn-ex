@@ -1,0 +1,26 @@
+[Event "Caro-Gyatt: Carlsbad Pawn Structure"]
+[Site "https://lichess.org/study/hwgjbtDN/ZWYLeXQV"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "16:12:16"]
+[Variant "From Position"]
+[SetUp "1"]
+[FEN "8/pp3ppp/4p3/3p4/3P4/2P5/PP3PPP/8 w - - 0 1"]
+[ChapterMode "gamebook"]
+
+{ This is a very common type of pawn structure in the Caro-Kann
+take-variation, known as the Carlsbad pawn structure. White has a queenside
+pawn majority, and we, as black, don't. The fight is 2 pawns vs. 4 pawns.
+Doesn't seem very fair. This is why we will deploy a ruthless queenside
+strategy known as the MINORITY ATTACK!! } { [%csl
+Ba7,Bb7,Bb2,Ba2,Rd4,Rc3,Rd5,Re6] }
+
+*
+

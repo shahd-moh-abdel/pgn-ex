@@ -1,0 +1,33 @@
+[Event "WIN with the Caro-Kann!: Defend-Variation: White disrupts with Qe2+"]
+[Site "https://lichess.org/study/EMa4kq6F/ZbhZxaKN"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "19:53:55"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Qe2+ { White tries to
+disrupt our natural development with Qe2+. However we can simply block it
+with Be6. } 7... Be6 8. Be3 { Get your king to safety } 8... O-O 9. O-O-O {
+According to the Lichess Database, O-O-O is played 61% of the time. White
+is trying to be aggressive, and push pawns on the kingside. However, White
+blundered a pawn. Can you find the winning move? } 9... Bxa2 $1 { Correct!
+If White tries to go b3 to trap our light-squared bishop, we can follow up
+with Ba3+, and White has to move their king back into the center. } 10. b3
+{ What do we play here? } 10... Ba3+ $1 { [%csl Ra3,Rb2,Rc1,Ra2,Rb1][%cal
+Ra3c1,Ra2b1] } 11. Kd2 { Now, we can follow up with another powerful check.
+} { [%csl Bd8] } 11... Qa5+ $1 { [%csl
+Re1,Rd2,Rc3,Rb4,Ra5,Ra3,Ra2,Rb2,Rb1,Rc1][%cal Ra3c1,Ra2b1,Ra5e1] } 12. Kd3
+{ Develop your queenside knight to the best square where it can create
+threats on the very weak White king. } { [%csl Bb8] } 12... Na6 $19 {
+Correct! Our knight is now threatening to give a check on b4 to the White
+King. White is completely losing. } { [%cal Ra6b4] } *
+

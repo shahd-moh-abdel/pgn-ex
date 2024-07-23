@@ -1,0 +1,28 @@
+[Event "WIN with the Caro-Kann!: Defend-Variation: White retreats to g3"]
+[Site "https://lichess.org/study/EMa4kq6F/ohhq0GdT"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "21:51:24"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 { White retreats back to g3. A very passive
+play for white, but it is played very often, as it is the second most
+common response to Nf6. We will respond with h5 because we want to attack
+white's badly placed knight with h4, forcing it to move again. } 5... h5 $1
+{ [%cal Rh5h4] } 6. h4 { Remember, if white allows us to play h4, then we
+will. In this case, white stops us, and we will continue by attacking the
+center with our c-pawn. } 6... c5 $1 { This also makes way for Nc6 ideas. }
+{ [%cal Gc5d4,Rb8c6,Bd8d1] } 7. Nf3 { What developing move do you play when
+you see white develop their knight out? } 7... Bg4 $1 { It's around equal
+but I like how we're able to develop rapidly with threats. We will continue
+with Nc6 and e6. } { [%csl Rd4][%cal Rg4d1,Ge7e6,Gb8c6] } *
+

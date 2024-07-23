@@ -1,0 +1,47 @@
+[Event "WIN with the Caro-Kann!: Take-Variation: White calmly develops"]
+[Site "https://lichess.org/study/EMa4kq6F/SpjDNyhD"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "01:16:08"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+exd5 { The next few chapters will examine the take-variation, which occurs
+if white takes our pawn. Since we played c6 to expand with d5, what should
+we recapture with? } 3... cxd5 { Very good; it wouldn't make much sense to
+capture with the queen if we played c6 to start. The position is starting
+to resemble a queen's pawn structure. } 4. Bd3 { Develop your queenside
+knight and attack white's undefended d4 pawn. } { [%csl Bb8] } 4... Nc6 5.
+c3 { Develop your other knight } 5... Nf6 { Knights before bishops! } {
+[%csl Bc6,Bf6] } 6. Bf4 { Since White is delaying the development of their
+kingside knight, we have to develop and attack White's queen with tempo.
+Play Bg4 anyway. } 6... Bg4 $1 { If white decides to push f3, this is a bad
+move since it weakens their king's diagonal, and could invite some harmful
+attacking ideas from us. } { [%csl Be1,Bf2,Bg3,Bh4][%cal Rf2f3] } 7. Qb3 {
+Instead, White develops their queen out and takes advantage that b7 is no
+longer guarded. Find the best way to defend b7. } { [%cal Rb3b7] } 7... Qd7
+$1 { This is the only good move! Black defends their pawn, stops any Bb5
+absolute pins, and defends the d6 square, making Bd6 possible in the
+future. } { [%cal Rd7b7] } 8. Nd2 { Your bishop looks like it's locked in.
+How can you free up its diagonal? } { [%csl Bf8] } 8... e6 $1 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 9. Ngf3 { Challenge White's control over the h2
+- b8 diagonal. } 9... Bd6 { [%csl Rb8,Rc7,Rd6,Re5,Rf4,Rg3,Rh2] } 10. Bxd6
+Qxd6 11. O-O { White castles, seeing that if they take our b7 pawn, we have
+Rb8 and will win their b2 pawn next. We will do the same and castle too,
+getting our king to safety and connecting our rooks. } 11... O-O { Our main
+game plan will be to launch a minority attack on the queenside by
+controlling the semi-open c-file and expanding with a6-b5 to plant our
+knight on the strong c4 outpost. Since White has a queenside majority, we
+will use our queenside minority to break up White's queenside so that in
+the endgame, White will have isolated or doubled pawns, where we will be
+able to attack them easily. } { [%csl Rd4,Rb7,Ra7,Rc3,Rb2,Ra2][%cal
+Bc8c1,Bb8b1,Ba8a1,Gc6a5,Ga5c4,Ga7a6,Gd6c7,Gf8c8,Gb7b5] } *
+

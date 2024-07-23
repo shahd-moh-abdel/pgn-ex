@@ -1,0 +1,34 @@
+[Event "WIN with the Caro-Kann!: Defend-Variation: White naturally develops"]
+[Site "https://lichess.org/study/EMa4kq6F/2PnyGurQ"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "18:37:37"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3.
+Nc3 { White plays the classical line of defending their central pawn. We
+will proceed by capturing their central pawn anyway. } 3... dxe4 4. Nxe4 {
+This is because we can follow up with Nf6 and gain quick development } 4...
+Nf6 5. Nxf6+ { which pawn do you take back with? } 5... exf6 { Correct!
+Taking back with the e-pawn is best because it opens up the diagonal for
+the dark-squared bishop to be developed. This opening is known as the
+Tartakower Variation } { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3,Gc8,Gd7,Ge6,Gf5,Gg4,Gh3] } 6. Nf3 { What is the
+most natural developing square for our dark-squared bishop? } { [%csl Bf8]
+} 6... Bd6 $1 { Correct! In the Tartakower Variation, your dark-squared
+bishop belongs on the d6 square, in most cases you develop your
+dark-squared bishop before you pin white's knight with your light-squared
+bishop. } 7. Bd3 { Get the king to safety } 7... O-O 8. O-O { Now you can
+pin White's knight } { [%csl Bc8] } 8... Bg4 $1 9. h3 { White attacks our
+light-squared bishop immediately. What move do we play here, do we draw
+back or trade? } 9... Bxf3 { Trading is not very good in this case because
+White gets free development. } *
+

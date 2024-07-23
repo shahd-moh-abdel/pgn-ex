@@ -1,0 +1,41 @@
+[Event "WIN with the Caro-Kann!: Minority Attack - Queenside Strategy"]
+[Site "https://lichess.org/study/EMa4kq6F/JyswkkRR"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.25"]
+[UTCTime "20:24:50"]
+[Variant "From Position"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bppp/2n1pn2/3p2B1/3P4/2PQ1N2/PP2BPPP/R4RK1 b - - 1 2"]
+[ChapterMode "gamebook"]
+
+{ This is a typical caro-kann position where your dark-squared bishop is
+protecting your knight on f6 which is protecting the h7 square. In this
+fashion, no one can checkmate you. To start the Minority attack, first play
+Rc8 } { [%csl Yh7,Rf6][%cal Re7f6,Yf6h7,Ba8c8,Bc6a5,Ba5c4] }
+
+2... Rc8 $1 { Rc8 is a very important move to start the minority attack
+because you want to control the semi-open c-file with your rook. } { [%cal
+Rc8c1] } 3. Kh1 { Now, prepare b5 with a6! } 3... a6 $1 { [%cal Gb7b5] } 4.
+Kg1 { What move were we preparing? } 4... b5 $1 { Very good! Our rook on c8
+and our d5-b5 pawns all work together to control the important c4 square. }
+{ [%csl Rc4][%cal Rc8c4,Rd5c4,Rb5c4] } 5. Kh1 { The reason is that, in a
+perfect world, you want to plant your knight on the super-strong c4
+outpost! How do you get your knight to c4? } { [%csl Bc4][%cal Bc6a5,Ba5c4]
+} 5... Na5 $1 6. Kg1 { whats next? } 6... Nc4 $1 { This is the main setup
+you are looking for when executing the Minority attack! Next you will play
+a5-b4, to pry apart white's queenside pawn majority. } { [%cal Ra6a5,Rb5b4]
+} 7. Rab1 { what were we setting up? } 7... a5 $1 { [%cal Rb5b4] } 8. Kh1 {
+and? } 8... b4 $1 9. cxb4 { Recapture with the pawn } 9... axb4 { This is
+our main middlegame strategy. We launch our pawns forward to their death,
+but in return, we get a superior pawn structure and weak pawns to target in
+White's camp. You will see this idea of the Minority attack all throughout
+the Take-Variation chapters. } { [%csl Bd4,Bb2,Ba2,Bb4][%cal
+Yf6e4,Yd8b6,Yc8b8,Yf8c8,Gc8c1,Gb8b1,Yb4b3] } *
+

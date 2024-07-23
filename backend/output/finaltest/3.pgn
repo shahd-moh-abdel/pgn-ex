@@ -1,0 +1,49 @@
+[Event "WIN with the Caro-Kann!: Push-Variation: White supports their center"]
+[Site "https://lichess.org/study/EMa4kq6F/IhWdNz50"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "15:37:12"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ In the first couple of chapters, we will look at what I call the push
+variation. Attack the center by pushing your c-pawn. } 3... c5 $1 { Your
+pawns want to break up the center like this in the Caro-Kann. } 4. c3 { 51%
+of the time, White protects their pawns like this. What is a developing
+move that adds more pressure on the d4 pawn? } 4... Nc6 { [%cal
+Rc5d4,Rc6d4] } 5. Nf3 { White defends their pawn. Here we can simply
+capture white's d4 pawn with our c5 pawn. } 5... cxd4 { Btw, if the knight
+were to recapture, the e5 pawn would no longer be protected and we can
+simply win a pawn. } { [%cal Gf3d4,Gc6e5] } 6. cxd4 { The reason why we
+capture immediately is because we want white to have an isolated pawn. We
+can then use that weak pawn as an advantage for us, as our gameplan will
+mostly be to target that pawn and try to win it to have a material
+advantage in the endgame. Now, develop your light-squared bishop to the
+best square. } { [%csl Rd4,Bc8] } 6... Bg4 $1 { Correct! Whenever White
+develops their knight out, we want to pin it with our bishop. } 7. Be2 {
+Your dark-squared bishop looks a little sad. What move opens up the
+diagonal for your dark-squared bishop? } 7... e6 $1 { [%csl
+Bf8,Be7,Bd6,Bc5,Bb4,Ba3] } 8. O-O { Develop your kingside knight. } { [%csl
+Bg8] } 8... Nge7 { Our idea is to place our knight on f5, where it exerts
+more pressure on white's isolated d4 pawn } { [%cal Be7f5,Rf5d4,Rc6d4] } 9.
+Nc3 { What were we preparing? } 9... Nf5 $1 { [%cal Rf5d4,Rc6d4] } 10. Be3
+{ Develop your dark-squared bishop to the best square. } 10... Be7 11. h3 {
+If White attacks your light-squared bishop, you can trade white's knight
+because it eliminates a key defender of white's already weak, isolated
+pawn. } 11... Bxf3 12. Bxf3 { What bishop move can get rid of White's
+dark-squared bishop? } 12... Bg5 $1 { Correct! } 13. Qd3 { After white
+plays, lets say Qd3, we will simply castle since there is no rush in
+trading bishops. } 13... O-O { Now that our king is safely castled, we can
+trade bishops on the next move if possible. Our game plan is very simple:
+firstly, we will (obviously) trade bishops and then create a minority
+attack on the queenside with a6-b5, follow it up with Rc8, and try to
+undermine the e5 pawn with f6. } { [%cal Gg5e3,Ga7a6,Gb7b5,Ga8c8,Gf7f6] } *
+

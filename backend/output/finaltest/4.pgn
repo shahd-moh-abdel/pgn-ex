@@ -1,0 +1,34 @@
+[Event "WIN with the Caro-Kann!: Push-Variation: White trades our c-pawn"]
+[Site "https://lichess.org/study/EMa4kq6F/RhaIWHAH"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.21"]
+[UTCTime "18:03:17"]
+[Variant "Standard"]
+[ChapterMode "gamebook"]
+
+1. e4 { What are your opening moves? } 1... c6 2. d4 { and? } 2... d5 3. e5
+{ next? } 3... c5 4. dxc5 { White decides to capture your pawn. What is the
+best move for your queenside knight? } 4... Nc6 { If white is not careful,
+we will capture their central pawn. } { [%csl Re5][%cal Rc6e5] } 5. Nf3 {
+What move do you play when white's knight is developed? } 5... Bg4 $1 6.
+Be2 { Our dark-squared bishop is looking rather sad. How can we cheer him
+up? } 6... e6 $1 { Very good! Now that the diagonal is opened, we can
+recapture the material. } { [%csl Bf8,Be7,Bd6,Bc5] } 7. O-O { Regain
+material } 7... Bxc5 8. Nc3 { According to the Lichess Database, Nc3 is the
+most popular move. What is a sequence of moves that eliminates the e5 pawn?
+} { [%csl Re5] } 8... Bxf3 $1 { Very good spotting that! We are removing
+the defender of e5. } 9. Bxf3 Nxe5 { Now we can capture and we have a
+dominating center. } 10. Bf4 { Trade the bishop pair. } 10... Nxf3+ 11.
+Qxf3 { Develop your knight out to its best square. } 11... Nf6 { There is
+no reason to go the long route of Ne7 and Nf5 because there are no central
+pawns to target. Our gameplan is very simple. We will castle short, bring
+our queen to c7 or b6 and control the c-file with our rooks. } { [%cal
+Ge8g8,Ga8c8,Gd8c7,Gc7b6] } *
+

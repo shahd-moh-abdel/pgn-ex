@@ -1,0 +1,30 @@
+[Event "WIN with the Caro-Kann!: Take-Variation: White takes the bait"]
+[Site "https://lichess.org/study/EMa4kq6F/ZPMDuf17"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "?"]
+[Opening "?"]
+[Annotator "https://lichess.org/@/MSHARK19"]
+[UTCDate "2024.06.22"]
+[UTCTime "17:20:59"]
+[Variant "Standard"]
+[SetUp "1"]
+[FEN "r3k2r/pp3ppp/2nqpn2/3p4/3P2b1/1QPB1N2/PP1N1PPP/R3K2R w KQkq - 0 11"]
+[ChapterMode "gamebook"]
+
+11. Qxb7 { White takes our b7 pawn and now is in deep trouble. What move
+attacks the queen and forces her to move away? } 11... Rb8 $1 12. Qa6 { Get
+your king to safety! If you regain material too quickly, White can pin your
+knight and white is guaranteed to win material! } { [%csl Rc6,Re8][%cal
+Rd3b5,Gb8b2,Rb5e8] } 12... O-O $1 13. O-O { Attack the queen once more with
+your rook! } 13... Rb6 $1 14. Qa3 { Trade queens } 14... Qxa3 15. bxa3 {
+Develop your kingside rook to where it can exert pressure the semi-open
+c-file } 15... Rc8 $1 { Even though we are down a pawn, White has a
+terrible queenside structure. They have doubled and isolated a-pawns, and
+their d and c-pawn islands are very weak. In most cases, you can target
+these pawns and win material back, if not more material. } { [%csl
+Ba3,Ba2,Bd4,Bc3][%cal Rc8c1,Rb6b1] } *
+
